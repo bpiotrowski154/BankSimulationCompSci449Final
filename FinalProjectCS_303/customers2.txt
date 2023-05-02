@@ -1,0 +1,32 @@
+C,Solaire,1500,W,1500
+C,Georgiana Cisneros,5000,D,34
+C,Franciszek Andrade,78489,D,5330
+C,Cecilia Fuentes,38271,D,29
+C,Zena Hampton,91283,W,432
+C,Zelda,1,D,2
+C,Terri Atkins,483,W,483
+C,Jemma Brady,87467,D,300239
+C,Ezekiel Golden,123456,W,54321
+C,Pamela Meadows,28172,W,747
+C,Doomguy,100000,D,10
+C,Nasir Coleman,430000,W,3000
+C,Carley James,4500,W,250
+C,Anjali Denton,36000,D,5000
+C,Sahra Greaves,2300000,D,37
+C,Amygdala,21000,W,21000
+C,Kofi Charles,69000,D,2300
+C,Colette Odonnell,5400,W,400
+C,Brett Garner,98765,D,56789
+C,Mikey Navarro,321,W,123
+C,Blood Starved Beast,6600,D,6600
+C,Shauna Alston,23000,W,45
+C,Russell Lim,1250000,D,50000
+C,Brandan Mckinney,32100,W,100
+C,Crystal Adam,1000,W,500
+C,Cleric Beast,4000,W,4000
+C,Amritpal Alvarez,65900,W,5900
+C,Reef Copeland,34000,W,5430
+C,Kaycee Mccaffrey,500000,D,100
+C,Tarik Lees,7201,W,201
+C,Brandon Piotrowski,1000000,W,53829
+Q
